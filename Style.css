@@ -1,0 +1,12 @@
+h1{
+    color: skyblue;
+    text-align: center;
+    border: 5px dashed skyblue;
+    border-bottom: 5px dashed skyblue;
+    border-right: 5px dashed skyblue;
+    width: 300px;
+    margin: auto;
+}
+table{
+    margin: auto;
+}
